@@ -1,6 +1,6 @@
 <html>
   <head><title> MA 107</title><head>
-  <body bgcolor="#373737">
-    <h1> HTML Test </h1>
+  <body bgcolor="#373737" color = white>
+    # Markdown Test
   </body>
 </html>
