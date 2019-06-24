@@ -1,5 +1,3 @@
-# [MA 107](https://github.com/aryamanmaithani/ma-107/)
-
 Here is the description of the files and folders of this repository.
 
 ### [Notes.pdf](https://github.com/aryamanmaithani/ma-107/blob/master/Notes.pdf)
