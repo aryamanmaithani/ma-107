@@ -1,5 +1,6 @@
-# MA 107
-Collection of Notes, Assignments and Tests
+# [MA 107](https://github.com/aryamanmaithani/ma-107/)
+
+Here is the description of the files and folders of this repository.
 
 ### [Notes.pdf](https://github.com/aryamanmaithani/ma-107/blob/master/Notes.pdf)
 This is the file that contains the notes.  
