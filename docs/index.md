@@ -9,10 +9,14 @@ I had made the notes until the 17th lecture, after which I got involved in anoth
 This also contains Assignments 1-5, placed at the appropriate locations.  
 In case you find an error at some point, you may point it to me by mailing me at [aryamanmaithani@gmail.com](mailto:aryamanmaithani@gmail.com).
 
+---
+
 ### [Assignments - PDF](https://github.com/aryamanmaithani/ma-107/tree/master/Assignments%20-%20PDF)
 This contains eleven (11) files in total.  
 It has individual PDFs of all the ten (10) assignments that we were given. (Including the 5 contained in Notes.pdf)  
 The last file is the PDF containing all the assignments together.
+
+---
 
 ### [Tests - PDF](https://github.com/aryamanmaithani/ma-107/tree/master/Tests%20-%20PDF)
 This contains the PDFs of the questions papers of the four (4) quizzes, midsems, and endsems.
@@ -26,5 +30,9 @@ In addition to these, there's a file named ''main.tex'', this is the file that i
 As you'll see, I've used the ```\input``` command to include the lecture files. This was done to have a cleaner source code.  
 This also means that you cannot compile the lecture (and assignment) files independently as they don't have the required declarations.
 
+---
+
 ### [Assignments - LaTeX](https://github.com/aryamanmaithani/ma-107/tree/master/Assignments%20-%20LaTeX), [Tests - LaTeX](https://github.com/aryamanmaithani/ma-107/tree/master/Tests%20-%20LaTeX)
 Pretty much the same stuff as above applies here.
+
+---
