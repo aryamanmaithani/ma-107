@@ -24,6 +24,8 @@ This contains the PDFs of the questions papers of the four (4) quizzes, midsems,
 For most of you, the above is all that you'll require.  
 For those of you interested in LaTeX, here's a description of the rest -
 
+---
+
 ### [Notes - LaTeX](https://github.com/aryamanmaithani/ma-107/tree/master/Notes%20-%20LaTeX)
 This folder contains the source files of all the notes (and the five assignments) which are named as LecXY.tex (and AssignXY.tex).  
 In addition to these, there's a file named ''main.tex'', this is the file that is to be compiled.  
@@ -34,5 +36,3 @@ This also means that you cannot compile the lecture (and assignment) files indep
 
 ### [Assignments - LaTeX](https://github.com/aryamanmaithani/ma-107/tree/master/Assignments%20-%20LaTeX), [Tests - LaTeX](https://github.com/aryamanmaithani/ma-107/tree/master/Tests%20-%20LaTeX)
 Pretty much the same stuff as above applies here.
-
----
