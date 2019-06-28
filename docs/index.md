@@ -21,6 +21,9 @@ The last file is the PDF containing all the assignments together.
 ### [Tests - PDF](https://github.com/aryamanmaithani/ma-107/tree/master/Tests%20-%20PDF)
 This contains the PDFs of the questions papers of the four (4) quizzes, midsems, and endsems.
 
+---
+---
+
 For most of you, the above is all that you'll require.  
 For those of you interested in LaTeX, here's a description of the rest -
 
